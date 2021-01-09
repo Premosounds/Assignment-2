@@ -1,0 +1,23 @@
+h1{
+    background-color: black;
+    color: coral;
+    margin-bottom: 100px;
+    padding: 30px;
+    border:2px solid red ;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(231, 231, 231);
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(39, 37, 37);
+    
+}
+#main{
+    color: blue;
+}
+.small{
+    width: 10%;
+}
